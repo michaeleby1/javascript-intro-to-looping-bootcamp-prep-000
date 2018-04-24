@@ -18,6 +18,7 @@ function whileLoop(n){
 function doWhileLoop(array) {
   do {
   array.pop()
+  return array
 } while (maybeTrue(array.length > 0))
   return array
 }
