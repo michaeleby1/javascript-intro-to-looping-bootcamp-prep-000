@@ -1,8 +1,8 @@
 function forLoop(array) {
   for (let i = 1; i < 25; i++)
-  return "I am 1 strange loop."
+  console.log("I am 1 strange loop.")
 }
   else {
-    return "I am ${i} strange loops."
+    console.log("I am ${i} strange loops.")
   }
 }
