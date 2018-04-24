@@ -6,5 +6,5 @@ function forloop(array) {
   else {
   console.log("I am ${i} strange loops.")
   }
-  return [array, ...console.log]
 }
+forLoop()
