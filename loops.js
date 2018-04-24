@@ -7,4 +7,4 @@ function forloop(array) {
   console.log("I am ${i} strange loops.")
   }
 }
-forLoop()
+return forLoop()
