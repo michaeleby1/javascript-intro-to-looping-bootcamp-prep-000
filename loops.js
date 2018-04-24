@@ -17,7 +17,7 @@ function whileLoop(n){
 
 function doWhileLoop(array) {
   do {
-  array.pop[0]
+  array.slice[array.length - 1]
 } while (maybeTrue(array.length > 0))
   return array
 }
